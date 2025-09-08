@@ -1,0 +1,21 @@
+[2025-09-08 13:19:04] Server starting on port 12345
+[2025-09-08 13:20:04] Raj connected from /127.0.0.1:53016
+[2025-09-08 13:21:07] swati connected from /127.0.0.1:53028
+[2025-09-08 13:21:24] GROUP swati -> * (24 bytes)
+[2025-09-08 13:21:56] GROUP Raj -> * (44 bytes)
+[2025-09-08 13:22:57] PRIVATE Raj -> swati (24 bytes)
+[2025-09-08 13:23:52] PRIVATE Raj -> swati (24 bytes)
+[2025-09-08 13:24:40] DhanRaj connected from /127.0.0.1:53073
+[2025-09-08 13:24:52] GROUP DhanRaj -> * (24 bytes)
+[2025-09-08 13:26:25] PRIVATE Raj -> swati (44 bytes)
+[2025-09-08 13:27:18] PRIVATE DhanRaj -> swati (44 bytes)
+[2025-09-08 13:27:45] GROUP DhanRaj -> * (24 bytes)
+[2025-09-08 13:28:14] GROUP swati -> * (44 bytes)
+[2025-09-08 13:37:42] PRIVATE Raj -> swati (24 bytes)
+[2025-09-08 13:37:55] GROUP DhanRaj -> * (24 bytes)
+[2025-09-08 13:38:35] IO error with DhanRaj: Connection reset
+[2025-09-08 13:38:35] DhanRaj disconnected.
+[2025-09-08 13:38:35] IO error with swati: Connection reset
+[2025-09-08 13:38:35] swati disconnected.
+[2025-09-08 13:38:35] IO error with Raj: Connection reset
+[2025-09-08 13:38:35] Raj disconnected.

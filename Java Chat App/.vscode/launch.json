@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Client (JavaFX)",
+      "request": "launch",
+      "mainClass": "chatapp.Launcher",
+      "vmArgs": "--module-path C:/Users/LENOVO/Downloads/openjfx-21.0.8_windows-x64_bin-sdk/javafx-sdk-21.0.8/lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Run Server",
+      "request": "launch",
+      "mainClass": "chatapp.Server"
+    }
+  ]
+}
